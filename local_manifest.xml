@@ -7,5 +7,7 @@
  <project path="vendor/xiaomi/miatoll" name="sairam1411/vendor_xiaomi_miatoll.git" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/sm6250-common" name="sairam1411/vendor_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="ProjectVelvet/android_kernel_sm6250.git" remote="github" revision="kcal_v1.x" />
- 
+ <Project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-18.1" />
+ <Project path="vendor/qcom-opensource/healthd-ext" name="LineageOS/android_vendor_qcom_opensource_healthd-ext.git" remote="github" revision="lineage-18.1" />
+
 </manifest>
