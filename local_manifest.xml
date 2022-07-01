@@ -2,13 +2,13 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/miatoll" name="AhmedKazim-Dev/device_xiaomi_miatoll.git" remote="github" revision="snowcone" />
- <project path="device/xiaomi/sm6250-common" name="AhmedKazim-Dev/device_xiaomi_sm6250-common-1.git" remote="github" revision="snowcone" />
- <project path="vendor/xiaomi/miatoll" name="PixelPlusUI-Devices/vendor_xiaomi_miatoll.git" remote="github" revision="snowcone" />
- <project path="vendor/xiaomi/sm6250-common" name="PixelPlusUI-Devices/vendor_xiaomi_sm6250-common.git" remote="github" revision="snowcone" />
+ <project path="device/xiaomi/miatoll" name="PixelExperience-Devices/device_xiaomi_miatoll.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/sm6250-common" name="PixelExperience-Devices/device_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
+ <project path="vendor/xiaomi/miatoll" name="pixelexperience.org/android/vendor-blobs/vendor_xiaomi_miatoll.git" remote="gitlab" revision="twelve" />
+ <project path="vendor/xiaomi/sm6250-common" name="pixelexperience.org/android/vendor-blobs/vendor_xiaomi_sm6250-common.git" remote="gitlab" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="ProjectVelvet/android_kernel_sm6250.git" remote="github" revision="kcal_v1.x" />
  <Project path="hardware/xiaomi" name="ArrowOS-Devices/android_hardware_xiaomi.git" remote="github" revision="arrow-12.1" />
- <Project path="prebuilts/clang/host/linux-x86/clang-14.0" name="ImSpiDy/azure-clang.git" remote="gitlab" revision="clang-14" />
+ <Project path="vendor/xiaomi/miatoll-gcam" name="pixelexperience.org/android/vendor-blobs/vendor_xiaomi_miatoll-gcam.git" remote="gitlab" revision="twelve" />
  <Project path="vendor/xiaomi/miuicamera" name="SonalSingh18/vendor_xiaomi_miuicamera.git" remote="github" revision="12" />
  <Project path="device/xiaomi/extras" name="ArrowOS-Devices/android_device_xiaomi_extras.git" remote="github" revision="arrow-12.0" />
  <Project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings.git" remote="github" revision="lineage-19.1" />
