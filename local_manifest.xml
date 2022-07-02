@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/miatoll" name="PixelExperience-Devices/device_xiaomi_miatoll.git" remote="github" revision="twelve" />
- <project path="device/xiaomi/sm6250-common" name="PixelExperience-Devices/device_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
+ <project path="device/xiaomi/sm6250-common" name="AhmedKazim-Dev/device_xiaomi_sm6250-common.git" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/miatoll" name="pixelexperience.org/android/vendor-blobs/vendor_xiaomi_miatoll.git" remote="gitlab" revision="twelve" />
  <project path="vendor/xiaomi/sm6250-common" name="pixelexperience.org/android/vendor-blobs/vendor_xiaomi_sm6250-common.git" remote="gitlab" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="ProjectVelvet/android_kernel_sm6250.git" remote="github" revision="kcal_v1.x" />
